@@ -10,4 +10,4 @@
   
   product = first_number * second_number
   
-  qoutient = first_number / second_number
+  quotient = first_number / second_number
